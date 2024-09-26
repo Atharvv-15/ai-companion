@@ -22,7 +22,7 @@ const routes = [
     },
     {
         icon : Plus,
-        href : '/dashboard/companion/new',
+        href : '/companion/new',
         label: 'Create',
         pro: true,
     },
